@@ -7,5 +7,7 @@
        <img src="~assets/mok2.png" alt=""> 
 
     </div>
+    <br>  
+    <nuxt-link to="/about">About</nuxt-link>  
   </section>
 </template>
